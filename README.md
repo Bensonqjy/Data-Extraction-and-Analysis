@@ -28,8 +28,8 @@ A collection of Python scripts for data extraction and manipulation in Excel fil
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact Information
-- Author: John Doe
-- Email: john.doe@example.com
+- Author: Benson Q
+- Email: benson.quah.sg@gmail.com
 
 ## Acknowledgments
 - Special thanks to the creators of the `pandas` library.
